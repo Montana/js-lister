@@ -11,3 +11,7 @@ If you're using Chrome go to your developer tab and click `View -> Developer -> 
 Once you execute it, you should start seeing results looking something similar to this: 
 
 <img width="379" alt="Screenshot 2024-02-10 at 4 24 18 PM" src="https://github.com/Montana/js-lister/assets/20936398/be7bcf9d-5536-49b5-a457-c99608bf9489">
+
+
+
+>Author: Michael Mendy. February 10th, 2024. 4:30PM (PST.)</br>
