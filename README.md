@@ -4,7 +4,7 @@ Script I created to list all JS elements/files on a site in the DevConsole. 2/10
 
 ## Usage
 
-If you're using Chrome go to your developer and paste my script in the DevConsole. You may have to type `allow` first, then try and copy the script into the DevConsole again. 
+If you're using Chrome go to your developer tab and click `View -> JavaScript Console` and paste my script in the DevConsole. You may have to type `allow` first, then try and copy the script into the DevConsole again. 
 
 <img width="547" alt="Screenshot 2024-02-10 at 4 26 06 PM" src="https://github.com/Montana/js-lister/assets/20936398/27c80128-b7c5-4002-9752-5040009d5164">
 
